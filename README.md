@@ -17,6 +17,7 @@ Note that release downloads will include two .apworld files. They are both the s
 ## Locations
 - Completing 1st in courses
 - Completing top 3 in courses
+- Winning 1st in cups
 
 ## Goal
 - Find the number of Gold Trophies (from a total of 50) that you set as the requirement in the YAML.
