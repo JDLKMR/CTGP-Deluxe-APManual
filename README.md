@@ -5,6 +5,8 @@ You start with a random character, vehicle, wheel set, glider, and cup access. T
 
 There are YAML options for toggling Base Game courses, DLC courses, CTGP Deluxe courses, and DLC characters (as items).
 
+Note that release downloads will include two .apworld files. They are both the same, just with different names. You can pick the one with the name you prefer.
+
 ## Items
 - Characters (DLC characters toggleable)
 - Vehicles
