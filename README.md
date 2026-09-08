@@ -9,10 +9,10 @@ Note that release downloads will include two .apworld files. They are both the s
 
 ## Items
 - Characters (DLC characters toggleable)
+- Cup Access Passes
 - Vehicles
 - Wheels
 - Gliders
-- Cup Access Passes
 
 ## Locations
 - Completing 1st in courses
