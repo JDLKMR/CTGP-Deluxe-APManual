@@ -1,1 +1,20 @@
-# CTGP-Deluxe-APManual
+# Mario Kart 8 Deluxe (CTGP Deluxe) Manual APWorld
+This manual is built off of the one for vanilla MK8D made by RampantEpsilon and edited by BowserCrusher.
+
+CTGP Deluxe adds 16 new cups each with four custom tracks, bringing the total number of cups in the game up to 40 if you have the DLC.
+
+You start with a random character, vehicle, wheel set, glider, and cup access. This Manual also assumes you have a save file with all vehicle parts unlocked. There are YAML options for toggling Base Game courses, DLC courses, CTGP Deluxe courses, and DLC characters (as items).
+
+## Items
+- Characters (DLC characters toggleable)
+- Vehicles
+- Wheels
+- Gliders
+- Cup Access Passes
+
+## Locations
+- Completing 1st in courses
+- Completing top 3 in courses
+
+## Goal
+- Find the number of Gold Trophies (from a total of 50) that you set as the requirement in the YAML.
