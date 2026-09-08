@@ -3,7 +3,9 @@ This manual is built off of the one for vanilla MK8D made by RampantEpsilon and 
 
 CTGP Deluxe adds 16 new cups each with four custom tracks, bringing the total number of cups in the game up to 40 if you have the DLC.
 
-You start with a random character, vehicle, wheel set, glider, and cup access. This Manual also assumes you have a save file with all vehicle parts unlocked. There are YAML options for toggling Base Game courses, DLC courses, CTGP Deluxe courses, and DLC characters (as items).
+You start with a random character, vehicle, wheel set, glider, and cup access. This Manual also assumes you have a save file with all vehicle parts unlocked.
+
+There are YAML options for toggling Base Game courses, DLC courses, CTGP Deluxe courses, and DLC characters (as items).
 
 ## Items
 - Characters (DLC characters toggleable)
